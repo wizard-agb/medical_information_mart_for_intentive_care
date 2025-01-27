@@ -11,11 +11,11 @@ https://www.kaggle.com/competitions/dl24-length-of-stay-prediction-nn-ensembles
 8/26 for Classification of HOSPITAL_EXPIRE_FLAG 
 - SVM : ROC-AUC : 0.91639
 
-https://www.kaggle.com/competitions/dl24-probability-of-death-with-svm
+https://www.kaggle.com/competitions/dl24-probability-of-death-with-svm/leaderboard
 
 - KNN : ROC-AUC : 0.90703
 
-https://www.kaggle.com/competitions/dl24-probability-of-death-with-svm/leaderboard
+https://www.kaggle.com/competitions/dl24-probability-of-death-with-k-nn/leaderboard
 
 
 ## Project Description
