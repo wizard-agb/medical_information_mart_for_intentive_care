@@ -35,7 +35,7 @@ We get counts, length of stay, and clean up all of the patient data.
 Many patients are also return visitors, so we create a feature for returning patients. 
 We get seasonal factors as well as engineering medical features. 
 We also extract text data for the different diagnosis and summarize the key words as features. 
-Finally, we impute and scale the data 
+Finally, we impute and scale the data.
 
 ### Classification Model Overview
 
